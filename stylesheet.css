@@ -145,11 +145,10 @@ a:visited {
 p {
     color: #000;
     font-size: 16px;
-    line-height: 1.25em;
+    line-height: 2;
     padding: 0 0 1em 0;
     text-align: center;
     padding: 10px;
-    animation: 3s infinite alternate slidein;
 }
 
 ul {
